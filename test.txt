@@ -5,7 +5,7 @@
   "Person" : [
       {
         "Name" : "Kamal"
-      }
+      },
         
       {
         "Name" : "Nimal"
