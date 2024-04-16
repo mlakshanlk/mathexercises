@@ -2,4 +2,13 @@
   "Name" : "Malith",
   "Age" : "44",
   "City" : "Col"
+  "Person" : [
+      {
+        "Name" : "Kamal"
+      }
+        
+      {
+        "Name" : "Nimal"
+      }
+  ]
 }
