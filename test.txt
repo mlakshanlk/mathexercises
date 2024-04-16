@@ -1,3 +1,5 @@
-Name
-Age
-Address
+{
+  "Name" : "Malith"
+  "Age" : "34"
+  "City" : "Col"
+}
