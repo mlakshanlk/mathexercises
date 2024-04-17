@@ -1,7 +1,7 @@
 {
   "Name" : "Malith",
   "Age" : "44",
-  "City" : "Col"
+  "City" : "Col",
   "Person" : [
       {
         "Name" : "Kamal"
