@@ -1,1 +1,95 @@
-
+{
+  "type": 1,
+  "steps": [
+    {
+      "textBefore": "",
+      "textafter": "",
+      "imageData": {
+        "url": "https://raw.githubusercontent.com/mlakshanlk/mathexercises/main/exercises/Untitled-1_01.png",
+        "width": 840,
+        "height": 100
+      },
+      "isImageOverlapping": false
+    },
+    {
+      "textBefore": "",
+      "textafter": "",
+      "imageData": {
+        "url": "https://raw.githubusercontent.com/mlakshanlk/mathexercises/main/exercises/Untitled-1_02.png",
+        "width": 840,
+        "height": 100
+      },
+      "isImageOverlapping": false
+    },
+    {
+      "textBefore": "",
+      "textafter": "",
+      "imageData": {
+        "url": "https://raw.githubusercontent.com/mlakshanlk/mathexercises/main/exercises/Untitled-1_03.png",
+        "width": 840,
+        "height": 100
+      },
+      "isImageOverlapping": false
+    },
+    {
+      "textBefore": "",
+      "textafter": "",
+      "imageData": {
+        "url": "https://raw.githubusercontent.com/mlakshanlk/mathexercises/main/exercises/Untitled-1_04.png",
+        "width": 840,
+        "height": 200
+      },
+      "isImageOverlapping": false
+    },
+    {
+      "textBefore": "",
+      "textafter": "",
+      "imageData": {
+        "url": "https://raw.githubusercontent.com/mlakshanlk/mathexercises/main/exercises/Untitled-1_05.png",
+        "width": 840,
+        "height": 200
+      },
+      "isImageOverlapping": false
+    },
+    {
+      "textBefore": "",
+      "textafter": "",
+      "imageData": {
+        "url": "https://raw.githubusercontent.com/mlakshanlk/mathexercises/main/exercises/Untitled-1_06.png",
+        "width": 840,
+        "height": 200
+      },
+      "isImageOverlapping": false
+    },
+    {
+      "textBefore": "",
+      "textafter": "",
+      "imageData": {
+        "url": "https://raw.githubusercontent.com/mlakshanlk/mathexercises/main/exercises/Untitled-1_07.png",
+        "width": 840,
+        "height": 200
+      },
+      "isImageOverlapping": false
+    },
+    {
+      "textBefore": "",
+      "textafter": "",
+      "imageData": {
+        "url": "https://raw.githubusercontent.com/mlakshanlk/mathexercises/main/exercises/Untitled-1_08.png",
+        "width": 840,
+        "height": 200
+      },
+      "isImageOverlapping": false
+    },
+    {
+      "textBefore": "",
+      "textafter": "",
+      "imageData": {
+        "url": "https://raw.githubusercontent.com/mlakshanlk/mathexercises/main/exercises/Untitled-1_09.png",
+        "width": 840,
+        "height": 200
+      },
+      "isImageOverlapping": false
+    }
+  ]
+}
