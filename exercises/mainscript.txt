@@ -1,1 +1,60 @@
-
+{
+  "grades": [
+    {
+      "grade": 9,
+      "language": "en",
+      "lessons": [
+        {
+          "lessonNo": 1,
+          "lessonName": "Lesson Name",
+          "exercises": [
+            {
+              "exNumber": 1,
+              "questions": [
+                {
+                  "questionType": 0,
+                  "questionNo": 1,
+                  "question": "Main Question",
+                  "subParts": [
+                    {
+                      "partNo": 1,
+                      "question": "Sub part"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 10,
+      "language": "en",
+      "lessons": [
+        {
+          "lessonNo": 1,
+          "lessonName": "Lesson Name",
+          "exercises": [
+            {
+              "exNumber": 1,
+              "questions": [
+                {
+                  "questionType": 0,
+                  "questionNo": 1,
+                  "question": "Main Question",
+                  "subParts": [
+                    {
+                      "partNo": 1,
+                      "question": "Sub part"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
