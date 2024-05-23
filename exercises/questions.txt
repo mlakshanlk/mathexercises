@@ -7,7 +7,7 @@
       "subParts": [
         {
           "subPartNo": "1",
-          "subPart": "The question goes here #startLatex {2x} #endLatex and here and here and here and here #startLatex frac{2x}{5y} #endLatex and here and here and here",
+          "subPart": "The question goes here #startLatex {2x} #endLatex and here and here and here and here #startLatex \frac{2x}{5y} #endLatex and here and here and here",
           "subpartImageUrl": "",
           "replaceable": false,
           "subParts": [
