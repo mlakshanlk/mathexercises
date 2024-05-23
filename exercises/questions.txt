@@ -19,7 +19,7 @@
             },
             {
               "subPartNo": "ii",
-              "subPart": "Sub part here",
+              "subPart": "#startLatex \\frac{4x}{3}+1=5 #endLatex",
               "subpartImageUrl": "",
               "replaceable": false
             }
