@@ -13,7 +13,7 @@
           "subParts": [
             {
               "subPartNo": "i",
-              "subPart": "Sub part here",
+              "subPart": "#startLatex {3x+7=26} #endLatex",
               "subpartImageUrl": "",
               "replaceable": false
             },
